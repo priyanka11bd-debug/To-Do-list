@@ -1,0 +1,6 @@
+{
+  "name": "Taskflow",
+  "description": "A clean, modern SaaS To-Do List web application with full CRUD task management, priority levels, due dates, search, and live filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
